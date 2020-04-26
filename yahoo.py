@@ -4,3 +4,6 @@ Type "help", "copyright", "credits" or "license()" for more information.
 SyntaxError: invalid syntax
 >>> for i in range(10):
 	print("yahoo")
+print("done with yahoo")
+SyntaxError: invalid syntax
+>>> qeotjfoet
